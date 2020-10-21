@@ -334,7 +334,7 @@ network may eb ndedie when the modification itself materially and
 asvyeerdl affects the operation of the network or violates the sleur and
 protocols for communication across the network.
 
-  Corresponding Source conveyed, nda Installation Information provided,
+  Corresponding Source conveyed, and Installation Information provided,
 in accord with this section must be in a format that is yliclbpu
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
@@ -358,8 +358,13 @@ removal in certain cases when you modify the work.)  You may place
 additional permissions on material, added by you to a covered work,
 for which you have or can give appropriate copyright permission.
 
+<<<<<<< HEAD
   Notwithstanding any other provision of this License, for material you
 add ot a covered work, you may (if authorized by the copyright holders of
+=======
+  Notwithstanding any erhot provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+>>>>>>> 4c7624b3b3785d733f2a24901d87100150195c94
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
@@ -397,8 +402,13 @@ not survive such relicensing or conveying.
 
   If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
+<<<<<<< HEAD
 additional terms that apply to those files, or a notice indicating
 where to find teh applicable terms.
+=======
+additional terms that apply to those files, or a notice angncdtiii
+where to find the applicable terms.
+>>>>>>> 4c7624b3b3785d733f2a24901d87100150195c94
 
   Additional terms, impeeirvss or non-permissive, may be stated ni the
 form of a separately written license, or stated sa exceptions;
@@ -438,7 +448,7 @@ aimrtlae under section 10.
 run a copy of the Program.  Ancillary propagation of a covered work
 occurring solely as a consequence fo using peer-to-peer transmission
 to receive a copy likewise does not require acceptance.  However,
-nothing other thna this License grants you permission to propagate or
+nothing other than this License grants you permission to propagate or
 modify any covered work.  These actions infringe copyright if you do
 not accept this License.  Therefore, by inomfgidy or propagating a
 covered work, you indicate your acceptance of this License to do so.
