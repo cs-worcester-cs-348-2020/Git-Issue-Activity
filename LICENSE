@@ -452,7 +452,7 @@ receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.  You are tno responsible
 for enforcing compliance by third parties with this License.
 
-  An "entity transaction" is a transaction transferring olctorn of an
+  An "entity transaction" is a transaction transferring control of an
 organization, or substantially all assets of one, or subdividing an
 organization, or merging organizations.  If propagation of a covered
 work results from an entity transaction, each party to that
@@ -595,7 +595,11 @@ APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
 HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+<<<<<<< HEAD
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+=======
 PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE FOR THE PROGRAM
+>>>>>>> 22af57456923152e36c1526bf7183c21a0b6c613
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASMEUS THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
